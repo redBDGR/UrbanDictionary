@@ -1,0 +1,17 @@
+C:\Users\dogfi\Desktop\Projects\UrbanDictionary\UrbanDictionary\bin\Release\UrbanDictionary.exe.config
+C:\Users\dogfi\Desktop\Projects\UrbanDictionary\UrbanDictionary\bin\Release\UrbanDictionary.exe
+C:\Users\dogfi\Desktop\Projects\UrbanDictionary\UrbanDictionary\bin\Release\UrbanDictionary.pdb
+C:\Users\dogfi\Desktop\Projects\UrbanDictionary\UrbanDictionary\bin\Release\Newtonsoft.Json.dll
+C:\Users\dogfi\Desktop\Projects\UrbanDictionary\UrbanDictionary\bin\Release\Newtonsoft.Json.xml
+C:\Users\dogfi\Desktop\Projects\UrbanDictionary\UrbanDictionary\obj\Release\MainWindow.g.cs
+C:\Users\dogfi\Desktop\Projects\UrbanDictionary\UrbanDictionary\obj\Release\App.g.cs
+C:\Users\dogfi\Desktop\Projects\UrbanDictionary\UrbanDictionary\obj\Release\UrbanDictionary_MarkupCompile.cache
+C:\Users\dogfi\Desktop\Projects\UrbanDictionary\UrbanDictionary\obj\Release\UrbanDictionary_MarkupCompile.lref
+C:\Users\dogfi\Desktop\Projects\UrbanDictionary\UrbanDictionary\obj\Release\MainWindow.baml
+C:\Users\dogfi\Desktop\Projects\UrbanDictionary\UrbanDictionary\obj\Release\UrbanDictionary.g.resources
+C:\Users\dogfi\Desktop\Projects\UrbanDictionary\UrbanDictionary\obj\Release\UrbanDictionary.Properties.Resources.resources
+C:\Users\dogfi\Desktop\Projects\UrbanDictionary\UrbanDictionary\obj\Release\UrbanDictionary.csproj.GenerateResource.cache
+C:\Users\dogfi\Desktop\Projects\UrbanDictionary\UrbanDictionary\obj\Release\UrbanDictionary.csproj.CoreCompileInputs.cache
+C:\Users\dogfi\Desktop\Projects\UrbanDictionary\UrbanDictionary\obj\Release\UrbanDictionary.csproj.CopyComplete
+C:\Users\dogfi\Desktop\Projects\UrbanDictionary\UrbanDictionary\obj\Release\UrbanDictionary.exe
+C:\Users\dogfi\Desktop\Projects\UrbanDictionary\UrbanDictionary\obj\Release\UrbanDictionary.pdb
